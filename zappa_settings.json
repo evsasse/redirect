@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "profile_name": "evsasse",
+        "project_name": "redirect",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-9ew6hcrkq"
+    }
+}
